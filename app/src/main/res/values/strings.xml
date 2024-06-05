@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JavaMetro</string>
+    <string name="output_will_appear_here" translatable="false">Output will appear here</string>
+</resources>
